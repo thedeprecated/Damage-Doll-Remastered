@@ -8,16 +8,16 @@
  иначе, если танк не в списках, будет просто показываться обычная схема танка. И также настройки, где ты можешь включать некоторые функции.
 
 Все куклы танков которые были пока что нарисованы:<br>
-Тяжелые танки: ИС-7, Об. 277, Maus, E 100, Type 5 Heavy, Type 71, T57 Heavy, 60TP, T110E5, ТЭТ-100, Объект 278, Orso, H-3, M-V-Y, GPT-75, BZ-75, СТ-II, Vandal, T95/FV4201 Chieftain, Pz.Kpfw. VII, AMX M4 mle. 54, AMX 50 B, WZ-111 5A, Rinoceronte, Astron-FL, Super Conqueror, FV215b.<br>
-Средние танки: Об. 430У, E 50 M, Concept No. 5, TVP T 50/51, Об. 140, Leopard 1, CS-63, T95E6, Merkava LP, B-C 25 t, STB-1, 121, Centurion AX.<br>
+Тяжелые танки: ИС-7, Об. 277, Maus, E 100, Type 5 Heavy, Type 71, T57 Heavy, 60TP, T110E5, ТЭТ-100, Объект 278, Orso, H-3, M-V-Y, GPT-75, BZ-75, СТ-II, Vandal, T95/FV4201 Chieftain, Pz.Kpfw. VII, AMX M4 mle. 54, AMX 50 B, WZ-111 5A, Rinoceronte, Astron-FL, Super Conqueror, FV215b, 113, ИС-4, Объект 705А, Vz. 55, Czołg (P) wz.46.<br>
+Средние танки: Об. 430У, E 50 M, Concept No. 5, TVP T 50/51, Об. 140, Leopard 1, CS-63, T95E6, Merkava LP, B-C 25 t, STB-1, 121, Centurion AX, 121B, К-91.<br>
 Легкие танки: Т-100 ЛТ, Manticore, EBR 105, Rhm. Pzw., WZ-132-1, AMX 13 105, Sheridan.<br>
-ПТ-САУ: Об. 268/4, Jg.Pz. E 100, Grille 15, FV4005, Strv 103B, Ho-ri 3, T110E4, StuG Maus 17 cm, FV217 Badger, Foch 155, Foch B, Gendarme, WT E 100, WZ-113G FT, FV215b (183).<br>
-САУ: Об. 261, G.W. E 100, B-C 155 58, Conqueror GC.
+ПТ-САУ: Об. 268/4, Jg.Pz. E 100, Grille 15, FV4005, Strv 103B, Ho-ri 3, T110E4, StuG Maus 17 cm, FV217 Badger, Foch 155, Foch B, Gendarme, WT E 100, WZ-113G FT, FV215b (183), Wz.70 Żubr, Объект 268.<br>
+САУ: Об. 261, G.W. E 100, B-C 155 58, Conqueror GC, Объект 261/4.
 
-ТТ: 27 (уникальных) + 4 (копий)<br>
-СТ: 13 (уникальных) + 3 (копий)<br>
+ТТ: 32 (уникальных) + 8 (копий)<br>
+СТ: 15 (уникальных) + 4 (копий)<br>
 ЛТ: 7 (уникальных) + 1 (копий)<br>
-ПТ-САУ: 15 (Уникальных) + 4 (копий)<br>
-САУ: 4<br>
+ПТ-САУ: 17 (Уникальных) + 4 (копий)<br>
+САУ: 5<br>
 
-Всего танков: 66 (уникальных) + 12 (копий)
+Всего танков: 76 (уникальных) + 17 (копий)
